@@ -1,0 +1,23 @@
+# Python virtual environments
+env/
+venv/
+.env/
+
+# Large dataset files (downloaded separately from Kaggle)
+fake_job_postings.csv
+
+# Python caches and compiler files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MLflow tracking runs and databases (local logs)
+mlruns/
+mlflow.db
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
