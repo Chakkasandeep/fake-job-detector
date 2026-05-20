@@ -15,50 +15,27 @@ This project incorporates **SMOTE class balancing**, compares multiple classifie
 ## 🖼️ Project Showcase & Screenshots
 
 ### 🖥️ Streamlit Interactive Web Application
-*This section contains screenshots of the prediction interface, interactive controls, and individual text breakdown.*
+<img width="1918" height="1053" alt="image" src="https://github.com/user-attachments/assets/244be951-a7b6-4299-bf83-4c7eeff1ea16" />
 
-```markdown
-<!-- ================================================================= -->
-<!-- 📥 PLACE YOUR FRONTEND SCREENSHOTS HERE                          -->
-<!-- Drag and drop your screenshots of the Streamlit application below -->
-<!-- ================================================================= -->
-```
 
 #### **1. Main Predictor Dashboard (Example)**
-> *Paste your main dashboard interface screenshot below showing the prediction cards (REAL/FAKE) and the risk probability gauge.*
->
-> **[Placeholder for Main Predictor Screenshot]**
-> `![Streamlit Predictor Dashboard](path/to/your/streamlit_predictor_screenshot.png)`
+<img width="1660" height="877" alt="image" src="https://github.com/user-attachments/assets/b267e03f-22d0-4199-b83f-5e700a853908" />
+
 
 #### **2. Word-Level Explainability Chart & Dual-Highlight Text Area**
-> *Paste the close-up screenshot showing the SHAP horizontal bar chart, the green/red words breakdown, and the newly implemented dark-slate text highlighting container with green (authentic) and red (scam warning) badges.*
->
-> **[Placeholder for Explainability and Highlighting Screenshot]**
-> `![Explainability Visuals and Highlights](path/to/your/explainability_screenshot.png)`
+<img width="1351" height="906" alt="image" src="https://github.com/user-attachments/assets/e5ce196e-2c5f-4e3c-85be-45bbad763eeb" />
 
 ---
 
 ### 📊 MLflow Tracking Dashboard
-*This section contains screenshots showing the experimental runs, parameters, and logged metric comparisons in the MLflow web interface.*
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/7c26eefa-7b20-4885-8140-b31eaca564c5" />
 
-```markdown
-<!-- ================================================================= -->
-<!-- 📥 PLACE YOUR MLFLOW SCREENSHOTS HERE                            -->
-<!-- Drag and drop your MLflow Dashboard screenshots below             -->
-<!-- ================================================================= -->
-```
 
 #### **1. Experiment Runs Comparison Table**
-> *Paste the screenshot of your local http://localhost:5000 MLflow dashboard showing the logged runs sorted by F1-Score.*
->
-> **[Placeholder for MLflow Dashboard Runs Screenshot]**
-> `![MLflow Dashboard Runs](path/to/your/mlflow_dashboard_screenshot.png)`
+<img width="1869" height="955" alt="image" src="https://github.com/user-attachments/assets/afd2ea23-ca5a-418c-a22f-95c5b7710765" />
 
 #### **2. Metric Parameter Scatter / Bar Charts**
-> *Paste the screenshot showing the parallel coordinates plot or bar comparison logged inside MLflow.*
->
-> **[Placeholder for MLflow Charts Screenshot]**
-> `![MLflow Plots Comparison](path/to/your/mlflow_plots_screenshot.png)`
+<img width="1879" height="888" alt="image" src="https://github.com/user-attachments/assets/632ca952-6877-480f-b4ed-b2ce8c079867" />
 
 ---
 
